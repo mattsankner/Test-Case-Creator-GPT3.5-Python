@@ -1,6 +1,6 @@
 # Test-Case-Creator-GPT-3.5
 
-This is an app created during an internship at Insulet Corporation for purpose of demonstrating use of GPT/AI in increasing test coverage for an app.
+This is a notebook created during an internship at Insulet Corporation for purpose of demonstrating use of GPT/AI in increasing test coverage for an app.
 
 Topic: an app that controls delivery and management of insulin to patients with diabetes through a proprietary device worn on the body.
 
