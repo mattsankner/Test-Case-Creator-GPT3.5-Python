@@ -1,4 +1,4 @@
-# Test-Case-Creator-GPT-3.5
+# Test-Case-Creator
 
 This is a notebook created during an internship at Insulet Corporation for purpose of demonstrating use of GPT/AI in increasing test coverage for an app.
 
